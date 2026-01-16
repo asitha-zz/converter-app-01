@@ -1,0 +1,7 @@
+{
+  "description": "VeloDownloader - A premium mobile-first web app for downloading and converting social media videos to MP3/MP4.",
+  "requestFramePermissions": [
+    "clipboard-read"
+  ],
+  "name": ""
+}
